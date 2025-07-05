@@ -14,4 +14,4 @@ This project asks health-related yes/no questions (fever, cough, etc.) and sugge
 1. Install Python
 2. Run the file:
    ```bash
-   python expert_system_gui.py
+   python tkinter-expect-system.py
